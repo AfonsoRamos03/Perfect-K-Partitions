@@ -1,4 +1,4 @@
-#Perfect K-Partitions
+# Perfect K-Partitions
 
 To give more context on what a k-partition is, for example, the blocks {5, 1, 1, 1}, {2, 5, 1}, {8} form a perfect 3-partition of the list {1, 1, 1, 1, 2, 5, 5, 8}, where each block sums to 8.
 
